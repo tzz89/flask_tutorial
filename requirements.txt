@@ -2,4 +2,7 @@
 -e .
 
 #external package
-
+autopep8
+flask
+flask-wtf
+email_validator

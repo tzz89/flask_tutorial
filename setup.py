@@ -7,5 +7,5 @@ setup(
     author="Teo Zuo Zhe",
     description="Flask tutorial from udemy",
     version="0.1.0",
-    packages=find_packages
+    packages=find_packages()
 )
